@@ -1,0 +1,76 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/black"
+    tools:context="com.example.nicols.turismo_envigado_maestro_detalle_pto2.Publicidad">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/bannerpublicidad"
+                android:adjustViewBounds="true"
+                android:contentDescription="@string/img_ban_envigado" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/titulo_publi_env"
+                android:layout_gravity="center"
+                android:textAppearance="@style/subtitles" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/sobre_env_genera"
+                android:textAppearance="@style/textosinfo" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:contentDescription="@string/img_pte_env"
+                android:src="@drawable/puenteenv" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/text_nuevo_parque"
+                android:textAppearance="@style/subtitles"
+                android:gravity="center" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/sobre_remo_pqe"
+                android:textAppearance="@style/textosinfo" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/img_nvo_pqe_envigado"
+                android:adjustViewBounds="true"
+                android:src="@drawable/nuevoparqueenv" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/sobre_licen_cond"
+                android:textAppearance="@style/textosinfo1" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>
