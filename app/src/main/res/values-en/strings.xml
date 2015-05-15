@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Envigado Tourism</string>
+    <string name="P">Advertising</string>
+    <string name="H">Hotels</string>
+    <string name="B">Bars</string>
+    <string name="T">Tourism</string>
+    <string name="D">Demographics</string>
+    <string name="Ade">About us:</string>
+    <string name="title_activity_hoteles">Hotels</string>
+
+    <string name="hot_env">ENVIGADO HOTELS</string>
+    <string name="bar_env">ENVIGADO BARS</string>
+    <string name="dem_env">ENVIGADO DEMOGRAPHICS</string>
+    <string name="tur_env">ENVIGADO TOURISM</string>
+    <string name="despor">Developed by:</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_bares">Bares</string>
+    <string name="title_activity_turismo">Turismo</string>
+    <string name="title_activity_demografia">Demografia</string>
+    <string name="title_activity_acercade">acercade</string>
+
+    <string name="text_nuevo_parque">NEW PARK PROJECT ENVIGADO</string>
+    <string name="img_pte_env">Imagen Puente Envigado</string>
+    <string name="titulo_publi_env">Envigado - Antioquia</string>
+    <string name="sobre_remo_pqe">The remodeling will take place primarily in flooring and window boxes. The front of the court retains the traditional style that characterizes the Santa Gertrudis church; in the rest of the park and part of the ice cream granite floors and adobe floors they will be exchanged for higher quality guaranteeing durability over time, according to those who designed the works.</string>
+    <string name="sobre_licen_cond">DO YOU KNOW THIS? You can renew your drivers license in Envigado, even without having first issued in this county and in just 15 minutes.</string>
+    <string name="sobre_env_genera">Envigado is integrated to the metropolitan area of ​​Aburra Valley, has an average temperature of 22 ° C. Its name is due to the existence in the place where it was built from trees, whose wood It was used for the beams of houses. Envigados economy is based on industry, with the headquarters of large companies installed in its territory. Along with Medellin, Bello and Itagui they constitute a single metropolitan city. </string>
+    <string name="img_ban_envigado">Banner publicidad de Envigado</string>
+    <string name="img_nvo_pqe_envigado">Nuevo parque de Envigado</string>
+
+    <string name="carac_hot_env">Envigado offers small hotels, country, with, comfortable, quiet, cozy, family atmosphere are spaces with modern architecture, ideal to enjoy your stay in the city.</string>
+    <string name="finca_1text">Finca El Cabrero</string>
+    <string name="desc_fin1">Construction Forestry Fizebad Plot 22, Envigado</string>
+    <string name="finca_2text">House Hotel San Lucar</string>
+    <string name="desc_casfin">Street 23 South 15  115 Int 120, Envigado</string>
+    <string name="finca_3text">House Hotel Zuñiga</string>
+    <string name="desc_hotelcasz">Av 44  20 South  11, tel: 331 8081, e-Mail: hotel@hotelcasazuñiga.com</string>
+
+    <string name="bota">Boot Day</string>
+    <string name="desc_bota">Cra 43  33 Sur y diagonal 39</string>
+    <string name="guan">Guanteros Street</string>
+    <string name="desc_guant">Street 38 A south, between avenues 40 and 43 A</string>
+    <string name="zona_esco">Escobero Zone</string>
+    <string name="desc_esco">Escobero Hills Km 1</string>
+    <string name="descbar">Envigado has several areas of nightclubs and bars with a variety of types of party. </string>
+
+    <string name="saldo">Ecotourism Park El Salado </string>
+    <string name="desc_salado">The ecotourism park El Salado is located in the rural area of ​​Envigado, Salado sector and has 170,000 m2, making it one of the biggest ecological reserves in Antioquia. The hours are: Tuesday to Sunday and holidays from 9:00 am to 5:00 pm When the holiday is Monday, it does not open on Tuesday. Av 27 A No. 41 South 58.</string>
+    <string name="pae">Escobero Adventure Park</string>
+    <string name="desc_pae">In this park you will find: a bar themed restaurant (Tiki Bar) that gives us his services and amenities such as parking and public toilets. Rental bikes, Tennis 4x4, Trial, Rapel also includes safety equipment, advice and support of especializados.Kilometro guides 4, Via Loma del Escobero</string>
+    <string name="debora"> Public Library and Cultural Park Debora Arango</string>
+    <string name="desc_debora">Space modern architecture contributes to the development of science, culture, art, technology and innovation Aburrá Valley. Address: Calle 37 Sur # 45B 27 </string>
+
+    <string name="appde">Application with information of Envigado, developed for practice Course No. 4 Applications for Mobile Phone devices. Powered by Nicolas Posada electrical engineering student </string>
+
+    <string name="demo1">According to the figures presented by the DANE census 2005.3 Envigado currently has a population of 175 240 inhabitants, making it the fourth largest urban agglomeration in the metropolitan area of ​​the Valley of Aburrá that adds a total of 3.312.165 people.4 The municipality has a population density of about 3,504 inhabitants per square kilometer. 45.9% of the population are men and 54.1% women. The city has an illiteracy rate of 5% in the population over five years old.
+Public services have a high cover, since a 99.7% of homes have electricity service, while 96% have piped water and 97.4% of telephone communication. </string>
+    <string name="demo2">According to figures from the Government of Antioquia based on Quality of Life Survey 2004 the prevailing socio-economic strata in Envigado is 3 (medium-low) with 43.9% of all households located in the municipality; it follows layer 2 (low) with 21.1%, 4 (middle) with 17.9%; strata 5 (medium-high) and 6 (high) occupy a significant percentage with 13.5% and 1.5% respectively this because in the city much of the richest population of Medellin is housed mainly in colidantes neighborhoods the commune of El Poblado in Medellin, and sidewalks as Las Palmas, Santa Catalina and El Escobero found in many luxury subdivisions. Finally this stratum 1 (low) which corresponds to only 2.1% of the total housing in the municipality.</string>
+</resources>

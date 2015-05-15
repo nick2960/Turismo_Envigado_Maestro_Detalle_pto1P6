@@ -1,0 +1,69 @@
+<resources>
+
+    <string name="app_name">Turismo_Envigado</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="P">Publicidad</string>
+    <string name="H">Hoteles</string>
+    <string name="B">Bares</string>
+    <string name="T">Turismo</string>
+    <string name="D">Demografía</string>
+    <string name="Ade">Acerca De:</string>
+    <string name="title_activity_hoteles">Hoteles</string>
+
+    <string name="hot_env">HOTELERÍA ENVIGADO</string>
+    <string name="bar_env">BARES DE ENVIGADO</string>
+    <string name="dem_env">DEMOGRAFÍA DE ENVIGADO</string>
+    <string name="tur_env">TURISMO ENVIGADO</string>
+    <string name="despor">Desarrollado por:</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_bares">Bares</string>
+    <string name="title_activity_turismo">Turismo</string>
+    <string name="title_activity_demografia">Demografia</string>
+    <string name="title_activity_acercade">acercade</string>
+
+    <string name="text_nuevo_parque">PROYECTO DEL NUEVO PARQUE DE ENVIGADO </string>
+    <string name="img_pte_env">Imagen Puente Envigado</string>
+    <string name="titulo_publi_env">Envigado - Antioquia</string>
+    <string name="sobre_remo_pqe">La remodelación se realizará básicamente en  pisos y jardineras. La parte del frente del atrio conservará el estilo tradicional que caracteriza la Iglesia Santa Gertrudis; en el resto del parque y la parte de las heladerías los pisos de granito y adobe serán cambiados por pisos de mayor calidad que garantiza la perdurabilidad en el tiempo, según quienes diseñaron las obras.</string>
+    <string name="sobre_licen_cond">SABÍA QUE. Usted puede renovar su licencia de conducción en Envigado, AÚN sin haberla expedido por primera vez en este municipio y en solo 15 minutos.</string>
+    <string name="sobre_env_genera">El municipio de Envigado esta integrado al Área metropolitana del Valle de Aburra, cuenta con una temperatura promedio de 22° C. Su nombre se debe a la existencia en el lugar donde fue construido de árboles, cuya madera fue utilizada para las vigas de las viviendas. La economía de Envigado esta basada en la industria, contando con sedes de grandes compañías instaladas en su territorio. Junto con Medellín, Bello e Itaguí constituyen una sola urbe metropolitana.</string>
+    <string name="img_ban_envigado">Banner publicidad de Envigado</string>
+    <string name="img_nvo_pqe_envigado">Nuevo parque de Envigado</string>
+
+    <string name="carac_hot_env">Envigado te ofrece pequeños hoteles, campestres, con un ambiente familiar, cómodo, tranquilo, acogedor, son espacios con una arquitectura moderna, ideales  para que disfrutes tu estadía en el municipio.</string>
+    <string name="finca_1text">Finca El Cabrero</string>
+    <string name="desc_fin1">Urbanizacion Bosques de Fizebad Parcela 22, Envigado</string>
+    <string name="finca_2text">Casa Hotel San Lucar</string>
+    <string name="desc_casfin">Calle 23 Sur 15  115 Interior 120, Envigado</string>
+    <string name="finca_3text">Hotel Casa Zuñiga</string>
+    <string name="desc_hotelcasz">Cra 44  20 Sur  11, tel: 331 8081, e-Mail: hotel@hotelcasazuñiga.com</string>
+
+    <string name="bota">Bota del Día</string>
+    <string name="desc_bota">Cra 43  33 Sur y Diagonal 39</string>
+    <string name="guan">Calle Guanteros</string>
+    <string name="desc_guant">Cll 38 A sur, entre las carreras 40 y 43 A</string>
+    <string name="zona_esco">Zona del Escobero</string>
+    <string name="desc_esco">Loma del Escobero Kilímetro 1</string>
+    <string name="descbar">Envigado cuenta con varias zonas de discotecas y bares, con una gran variedad de tipos de rumba.</string>
+
+    <string name="saldo">Parque ecoturístico El Salado</string>
+    <string name="desc_salado">El Parque EcoTurístico El Salado se encuentra ubicado en la zona rural de Envigado, sector del Salado y cuenta con 170.000 m2 que lo convierten  en una de las grandes reservas ecológicas de Antioquia. El horario de atención es: martes a domingo y días festivos de 9:00  a.m.  a  5:00 p.m. Cuando el festivo es lunes, no se abre el día martes. Cra 27 A N° 41 Sur 58.</string>
+    <string name="pae">Parque Aventura Escobero</string>
+    <string name="desc_pae">En este parque usted encontrará: un restaurante bar temático (Tiki bar) que nos brinda sus servicios y comodidades como parqueadero y servicios de baño. Alquiler de motos, Pista de 4x4, Trial, Rapel también incluye equipo de seguridad, asesoría y acompañamiento de guias especializados.Kilometro 4, Vía Loma del Escobero</string>
+    <string name="debora">Biblioteca Pública y Parque Cultural Débora Arango</string>
+    <string name="desc_debora">Espacio con arquitectura moderna, contribuye al desarrollo de la ciencia, la cultura, el arte, la tecnología y la innovación del Valle de Aburrá. Dirección: Calle 37 Sur N. 45B 27</string>
+
+    <string name="appde">Aplicación con la información del minicipio de Envigado desarrollado para la práctica N°4 del curso Aplicaciones para dispositivos Móvile.
+    Desarrollado por Nicolás Posada estudiante de ingeniería electrónica</string>
+
+    <string name="demo1">De acuerdo con las cifras presentadas por el DANE del censo 2005,3 Envigado cuenta actualmente con una población de 175.240 habitantes, siendo ésta la cuarta aglomeración urbana del área metropolitana del Valle de Aburrá que suma un total de 3.312.165 de personas.4 El municipio cuenta con una densidad poblacional de aproximadamente 3.504 habitantes por kilómetro cuadrado. El 45,9 % de la población son hombres y el 54,1 % mujeres. La ciudad cuenta con una tasa de analfabetismo del 5 % en la población mayor de 5 años de edad.
+Los servicios públicos tienen una alta cobertura, ya que un 99,7 % de las viviendas cuenta con servicio de energía eléctrica, mientras que un 96 % tiene servicio de acueducto y un 97,4 % de comunicación telefónica.</string>
+    <string name="demo2">Según las cifras de la Gobernación de Antioquia basadas en la encuesta de Calidad de Vida 2004 el estrato socio-económico predominante en Envigado es el 3 (medio-bajo) con un 43.9% del total de las viviendas ubicadas en el municipio; le sigue el estrato 2 (bajo) con el 21.1%, el 4 (medio) con un 17.9%; los estratos 5 (medio-alto) y 6 (alto) ocupan un porcentaje significativo con un 13.5% y 1.5% respectivamente, esto debido a que en el municipio se alberga gran parte de la población más pudiente de Medellín principalmente en los barrios colidantes con la comuna de el El Poblado de Medellín, y veredas como Las Palmas, Santa Catalina y El Escobero en las que se encuentran gran número de lujosas parcelaciones. Por último esta el estrato 1 (bajo) el cual le corresponde solo un 2.1% del total de viviendas del municipio.</string>
+    <string name="title_activity_envigado">Envigado</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
