@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Envigado Tourism</string>
+    <string name="title_item_detail">Item Detail</string>
     <string name="P">Advertising</string>
     <string name="H">Hotels</string>
     <string name="B">Bars</string>
@@ -15,6 +15,7 @@
     <string name="tur_env">ENVIGADO TOURISM</string>
     <string name="despor">Developed by:</string>
 
+    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_bares">Bares</string>
     <string name="title_activity_turismo">Turismo</string>
@@ -58,4 +59,9 @@
     <string name="demo1">According to the figures presented by the DANE census 2005.3 Envigado currently has a population of 175 240 inhabitants, making it the fourth largest urban agglomeration in the metropolitan area of ​​the Valley of Aburrá that adds a total of 3.312.165 people.4 The municipality has a population density of about 3,504 inhabitants per square kilometer. 45.9% of the population are men and 54.1% women. The city has an illiteracy rate of 5% in the population over five years old.
 Public services have a high cover, since a 99.7% of homes have electricity service, while 96% have piped water and 97.4% of telephone communication. </string>
     <string name="demo2">According to figures from the Government of Antioquia based on Quality of Life Survey 2004 the prevailing socio-economic strata in Envigado is 3 (medium-low) with 43.9% of all households located in the municipality; it follows layer 2 (low) with 21.1%, 4 (middle) with 17.9%; strata 5 (medium-high) and 6 (high) occupy a significant percentage with 13.5% and 1.5% respectively this because in the city much of the richest population of Medellin is housed mainly in colidantes neighborhoods the commune of El Poblado in Medellin, and sidewalks as Las Palmas, Santa Catalina and El Escobero found in many luxury subdivisions. Finally this stratum 1 (low) which corresponds to only 2.1% of the total housing in the municipality.</string>
+    <string name="title_activity_envigado">Envigado</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ss">Show Location</string>
 </resources>

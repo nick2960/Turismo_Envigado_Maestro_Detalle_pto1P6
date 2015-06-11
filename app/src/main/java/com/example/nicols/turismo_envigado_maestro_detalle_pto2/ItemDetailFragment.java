@@ -1,9 +1,10 @@
 package com.example.nicols.turismo_envigado_maestro_detalle_pto2;
 
+import android.app.Fragment;
+import android.app.FragmentManager;
+import android.app.FragmentTransaction;
 import android.os.Bundle;
-import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentManager;
-import android.support.v4.app.FragmentTransaction;
+
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -76,6 +77,9 @@ public class ItemDetailFragment extends Fragment {
             }else if (mItem.item_name.equals("Acerca de")){
                 Acercade fragmentacercade = new Acercade();
                 fragmentTransaction.replace(android.R.id.content,fragmentacercade).commit();
+            }else if (mItem.item_name.equals("Mapa")){
+                Map fragmentMapa = new Map();
+                fragmentTransaction.replace(android.R.id.content,fragmentMapa).commit();
             }
         }
 

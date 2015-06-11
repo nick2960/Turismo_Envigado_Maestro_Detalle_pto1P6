@@ -3,6 +3,7 @@ package com.example.nicols.turismo_envigado_maestro_detalle_pto2;
 
 
 
+import android.app.FragmentManager;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
@@ -40,6 +41,8 @@ public class ItemListActivity extends FragmentActivity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_item_list);
 
+
+
         if (findViewById(R.id.item_detail_container) != null) {
             // The detail container view will be present only in the
             // large-screen layouts (res/values-large and
@@ -73,25 +76,27 @@ public class ItemListActivity extends FragmentActivity
             ItemDetailFragment fragment = new ItemDetailFragment();
             fragment.setArguments(arguments);
 
-            Publicidad fragmentpublicidad = new Publicidad();
-            Hoteles fragmenthoteles = new Hoteles();
-            Bares fragmentbares = new Bares();
-            Turismo fragmentturismo = new Turismo();
-            Demografia fragmentdemografia = new Demografia();
-            Acercade fragmentacercade = new Acercade();
-
             if (id.equals("1")) {
-                getSupportFragmentManager().beginTransaction().replace(R.id.item_detail_container, fragmentpublicidad).commit();
+                Publicidad fragmentpublicidad = new Publicidad();
+                getFragmentManager().beginTransaction().replace(R.id.item_detail_container, fragmentpublicidad).commit();
             }else if (id.equals("2")) {
-                getSupportFragmentManager().beginTransaction().replace(R.id.item_detail_container, fragmenthoteles).commit();
+                Hoteles fragmenthoteles = new Hoteles();
+                getFragmentManager().beginTransaction().replace(R.id.item_detail_container, fragmenthoteles).commit();
             }else if (id.equals("3")) {
-                getSupportFragmentManager().beginTransaction().replace(R.id.item_detail_container, fragmentbares).commit();
+                Bares fragmentbares = new Bares();
+                getFragmentManager().beginTransaction().replace(R.id.item_detail_container, fragmentbares).commit();
             }else if (id.equals("4")) {
-                getSupportFragmentManager().beginTransaction().replace(R.id.item_detail_container, fragmentturismo).commit();
+                Turismo fragmentturismo = new Turismo();
+                getFragmentManager().beginTransaction().replace(R.id.item_detail_container, fragmentturismo).commit();
             }else if (id.equals("5")) {
-                getSupportFragmentManager().beginTransaction().replace(R.id.item_detail_container, fragmentdemografia).commit();
+                Demografia fragmentdemografia = new Demografia();
+                getFragmentManager().beginTransaction().replace(R.id.item_detail_container, fragmentdemografia).commit();
             }else if (id.equals("6")) {
-                getSupportFragmentManager().beginTransaction().replace(R.id.item_detail_container, fragmentacercade).commit();
+                Acercade fragmentacercade = new Acercade();
+                getFragmentManager().beginTransaction().replace(R.id.item_detail_container, fragmentacercade).commit();
+            }else if (id.equals("7")) {
+                Map fragmentmap =   new Map();
+                getFragmentManager().beginTransaction().replace(R.id.item_detail_container, fragmentmap).commit();
             }
         } else {
             // In single-pane mode, simply start the detail activity

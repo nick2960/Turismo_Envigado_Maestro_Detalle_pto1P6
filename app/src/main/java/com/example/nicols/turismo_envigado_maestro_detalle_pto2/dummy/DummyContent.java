@@ -1,5 +1,9 @@
 package com.example.nicols.turismo_envigado_maestro_detalle_pto2.dummy;
 
+import android.content.Context;
+
+import com.example.nicols.turismo_envigado_maestro_detalle_pto2.R;
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -13,6 +17,7 @@ import java.util.Map;
  */
 public class DummyContent {
 
+    public static Context GlobalContext = null;
     /**
      * An array of sample (dummy) items.
      */
@@ -30,6 +35,7 @@ public class DummyContent {
         addItem(new DummyItem("4", "Turismo"));
         addItem(new DummyItem("5", "Demografia"));
         addItem(new DummyItem("6", "Acerca de"));
+        addItem(new DummyItem("7", "Mapa"));
     }
 
     private static void addItem(DummyItem item) {
